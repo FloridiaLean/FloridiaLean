@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hola, soy Leandro Floridia 👋
 
-<!--
-**FloridiaLean/FloridiaLean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Desarrollador de Software y estudiante de Ciencia de Datos.
 
-Here are some ideas to get you started:
+Me interesa construir soluciones utilizando programación, análisis de datos y automatización de procesos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente trabajo en proyectos relacionados con:
+
+- Python
+- Ciencia de Datos
+- Desarrollo Web
+- Finanzas e inversiones
+- Análisis de Datos
+- Desarrollo de Aplicaciones
+- Git y GitHub
+
+## Tecnologías
+
+- Python
+- SQL
+- Pandas
+- Flask
+- Numpy
+- Matplotlib
+- Git
+- GitHub
+- HTML
+- CSS
+- JavaScript
+
+<## Actualmente Aprendiendo
+
+- Programación orientada a objetos
+- Estructuras de datos
+- Análisis de datos con Pandas
+- Desarrollo de software
+
+## Contacto
+
+LinkedIn: https://www.linkedin.com/in/leandro-floridia-176332253/
+GitHub: https://github.com/FloridiaLean
+
