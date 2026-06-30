@@ -40,4 +40,5 @@ Actualmente trabajo en proyectos relacionados con:
 
 LinkedIn: https://www.linkedin.com/in/leandro-floridia-176332253/
 GitHub: https://github.com/FloridiaLean
+Gmail: floridialeandro@gmail.com
 
