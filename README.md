@@ -29,7 +29,7 @@ Actualmente trabajo en proyectos relacionados con:
 - CSS
 - JavaScript
 
-<## Actualmente Aprendiendo
+## Actualmente Aprendiendo
 
 - Programación orientada a objetos
 - Estructuras de datos
